@@ -1,75 +1,94 @@
-## Hi there 👋
+Hi, I’m Athanasios Deliadis
 
-I'm Athanasios Deliadis
+Political Science graduate transitioning into Data Analysis.
 
-I am a Political Science graduate transitioning into Data Analysis.
+I build practical data projects using Python, SQL, R, Excel and web technologies, with a focus on public data, elections, socioeconomic indicators, regional inequality and policy-oriented analysis.
 
-My current focus is learning how to use data to answer real political, social and economic questions. I am building projects using Python, SQL, R and Excel, with a special interest in electoral data, public policy and political behavior.
+About Me
 
-## Current Focus
+My background is in Political Science, and I am currently building a strong foundation in Data Analysis through hands-on projects.
 
-- Data analysis with Python and pandas
-- SQL querying with SQLite
-- Data visualization with matplotlib and ggplot2
-- Political and electoral data analysis
-- Building a public project portfolio on GitHub
+I am especially interested in using data to understand political behavior, public policy, socioeconomic change and territorial inequality.
 
-## Tools I am learning
+My goal is to combine analytical thinking from the social sciences with technical data skills.
 
-- Python
-- pandas
-- matplotlib
-- SQL
-- SQLite
-- R
-- ggplot2
-- Excel
-- Git and GitHub
+Technical Skills
 
-## Projects
+* Python: pandas, requests, data cleaning, API data collection
+* SQL: SQLite, queries, aggregations, rankings, classifications
+* R: ggplot2, polished data visualizations, trend analysis
+* Excel: data entry, cleaning, structured datasets
+* Web: HTML, CSS, JavaScript, interactive data storytelling
+* Git and GitHub: version control, repositories, GitHub Pages
 
-### Greek Parliamentary Election Analysis - June 2023
+Featured Projects
 
-Analysis of the June 2023 Greek parliamentary election results using Python, pandas and matplotlib.
+Greece Regional Inequality Observatory
 
-This project includes:
+Interactive public-data microsite analyzing regional unemployment inequality across Greek NUTS 2 regions using Eurostat data.
 
-- data cleaning from Excel
-- vote share analysis
-- seat share analysis
-- charts and Markdown report
+The project includes Python data collection, R visualizations, SQL analysis, JSON-powered interactivity and a deployed website.
 
-Repository:  
-https://github.com/nasosdeliadis97/elections-2023-analysis
+Live website:
+https://nasosdeliadis97.github.io/greece-regional-inequality/
 
-### Greek Elections May vs June 2023 Comparison
+Repository:
+https://github.com/nasosdeliadis97/greece-regional-inequality
 
-Comparison of the May and June 2023 Greek parliamentary election results using Python, R and SQL.
+⸻
 
-This project includes:
+Greece Socioeconomic Indicators Analysis
 
-- merging two election datasets
-- calculating vote, percentage and seat changes
-- professional visualizations with R and ggplot2
-- SQL analysis using SQLite
+Interactive data story analyzing Greece’s unemployment, GDP growth, inflation and population trends from 2000 to 2024 using World Bank data.
 
-Repository:  
+The project combines Python, SQL, R visualizations and an interactive HTML/CSS/JavaScript microsite.
+
+Repository:
+https://github.com/nasosdeliadis97/greece-socioeconomic-indicators
+
+⸻
+
+Greek Elections 2023 Comparison
+
+Data analysis project comparing the May and June 2023 Greek parliamentary elections.
+
+The project examines changes in votes, percentages and seats by party, using Python, SQL and R visualizations.
+
+Repository:
 https://github.com/nasosdeliadis97/elections-2023-comparison
 
-## Background
+⸻
 
-My academic background in Political Science helps me approach data with a strong understanding of institutions, elections, public policy and political behavior.
+Greek Parliamentary Election 2023 Analysis
 
-I am especially interested in projects that combine:
+Introductory election analysis project focused on the June 2023 Greek parliamentary election.
 
-- politics
-- public data
-- elections
-- social trends
-- economic indicators
-- policy analysis
+The project analyzes party performance, vote shares, seats and electoral outcomes using Python, Excel and data visualization.
 
-## Goal
+Repository:
+https://github.com/nasosdeliadis97/elections-2023-analysis
 
-My goal is to become a Data Analyst with a strong analytical foundation and a clear domain focus in political, social and public policy data.
+Current Focus
 
+I am currently improving my skills in:
+
+* data cleaning
+* exploratory data analysis
+* SQL querying
+* statistical storytelling
+* public data analysis
+* dashboard and data product design
+
+Interests
+
+* Electoral analysis
+* Public policy
+* Regional inequality
+* Socioeconomic indicators
+* Political behavior
+* Data storytelling
+* Evidence-based decision making
+
+Contact
+
+GitHub: https://github.com/nasosdeliadis97
